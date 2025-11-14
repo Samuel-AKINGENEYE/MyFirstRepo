@@ -1,1 +1,1 @@
-In this course i have learnt so many things about cloning repository, Pulling a request and making an active participation in group work projects so in short, I have learnt a lot about Version control systems
+What I have learned from this course is how version control systems like Git help me track changes to my files. With Git, I can create a new file, add it to the repository using 'git add', commit a snapshot with 'git commit', and push it to GitHub using 'git push'. This prevents losing work and allows collaboration with others.
